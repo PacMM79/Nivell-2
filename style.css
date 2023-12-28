@@ -26,16 +26,16 @@ a:hover  {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-right: 3%;
 }
-.icon, .social_icon {
+.icon {
     margin-right: 5px;
     margin-bottom: -2px;
-    
 }
-
 .social_icon {
     height: 20px;
     margin-right: 10px;
+    margin-bottom: -2px;
 }
 .ban1 {
     background-color: #00000014;
